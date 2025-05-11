@@ -55,9 +55,7 @@ Insights: Players like Alcaraz, Sinner, Rune have already won major titles at a 
 Overall Win Percentage
 Next Gen players show a mixed performance in win percentage. While the Big 3 had a career win rate of over 85% in this age range, only Alcaraz and Sinner crossed the 75% mark. This suggests that while talent exists, consistency is still developing.
 
- 
- ![image](https://github.com/user-attachments/assets/1db3d476-541b-4103-9d81-34b484a777aa)
-
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/4900fe84-68a9-46cd-b423-b40629ded3a0" />
  
 
 Section 3: Surface Analysis and Head-to-Head Results
