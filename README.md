@@ -57,4 +57,4 @@ This project analyzes whether the rising stars in men's tennis — such as Carlo
 
 **Gursimran Sachar**  
 MBA Candidate | Data Analytics  
-[LinkedIn]((https://www.linkedin.com/in/gs098/)) | [Kaggle]((https://www.kaggle.com/gursimransachar)) | [Email](mailto:gursimransachar098@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gs098/) | [Kaggle](https://www.kaggle.com/gursimransachar) | [Email](mailto:gursimransachar098@gmail.com)
