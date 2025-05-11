@@ -59,6 +59,9 @@ Next Gen players show a mixed performance in win percentage. While the Big 3 had
 
 
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/78ca49c3-2d56-4fb3-93c3-ee30b292b3e3" />
+
+<img width="486" alt="image" src="https://github.com/user-attachments/assets/61e8376b-fa00-4b3f-a4a8-99ac3f5f2d23" />
+
  
 
 Section 3: Surface Analysis and Head-to-Head Results
